@@ -12,7 +12,7 @@ This project performs logistic regression analysis on DMV written test scores. K
   - ROC curve with AUC calculation
 
 ## Files
-- `DMV_Logistic_Regression.html` — HTML export of the analysis notebook
+- `DMV Logistic Regression.html` — HTML export of the analysis notebook
 
 ## Key Skills Demonstrated
 - Python, NumPy, Pandas, Matplotlib, Seaborn
